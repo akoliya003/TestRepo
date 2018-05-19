@@ -21,6 +21,11 @@ class App extends Component {
         <button class="search__button"> 3 </button>
         <button class="search__button"> 4 </button>
 
+        <button class="search1 search__button"> 1 </button>
+        <button class="search__button"> 2 </button>
+        <button class="search__button"> 3 </button>
+        <button class="search__button"> 4 </button>
+
 
           
         </div>
